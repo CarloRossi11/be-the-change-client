@@ -49,6 +49,7 @@
 
 <div>
 	<h2>Volunteering Opportunites in the 412</h2>
-	<p>Find your next volunteering gig here</p>
-	<a href="opportunities">View Opportunities</a>
+	<p>Looking to volunteer? Go to <a href="opportunities">Opportunities</a></p>
+	<p>Looking for help? <a href="register">Register</a> or <a href="login">Log In</a> to submit an opportunity</p>
+
 </div>
