@@ -1,3 +1,17 @@
+# Be The Change
+## Client 
+### Carlo Berardelli 2020
+
+GitHub: https://github.com/CarloRossi11/be-the-change-client
+Deployed Site (Netlify): https://bthechange.netlify.app/
+
+Built with Svelte & Sapper
+- Consumes API: https://be-the-change-api.herokuapp.com/
+
+Be The Change is a platform where users can easily find volunteer opportunities in their area and filter the results by opportunity type. Organizations and individuals can register to post volunteer opportunites that they will be hosting
+
+-----
+
 # sapper-template
 
 The default template for setting up a [Sapper](https://github.com/sveltejs/sapper) project. Can use either Rollup or webpack as bundler.
