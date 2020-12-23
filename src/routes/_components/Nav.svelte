@@ -43,8 +43,10 @@
 		<ul>
 			<li><a class:current={segment === undefined} href=".">home</a></li>
 			<li><a class:current={segment === 'about'} href="about">about</a></li>
-			<li><a class:current={segment === 'blog'} href="blog">blog</a></li>
-			<li><a class:current={segment === 'opportunities'} href="opportunities">opportunities</a></li>
+			<li><a class:current={segment === 'register'} href="/register">register</a></li>
+			<li><a class:current={segment === 'login'} href="/login">login</a></li>
+			<!-- <li class="nav-item"><a rel='prefetch' href="/login" class="nav-link" class:active="{$page.path === '/login'}">Sign in</a></li>
+			<li class="nav-item"><a rel='prefetch' href="/register" class="nav-link" class:active="{$page.path === '/register'}">Sign up</a></li> -->
 		</ul>
 	</div>
 </nav>
